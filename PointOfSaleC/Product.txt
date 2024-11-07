@@ -1,0 +1,4 @@
+1,Ballpen,10.5,0
+2,Notebook,15.0,0
+3,Bondpaper,2.0,4500
+4,Crayons,30.0,0
